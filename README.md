@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 🌱 I’m currently learning AWS DevOps
+🌱 I’m currently learning AWS DevOps
 
 
 ## 🌐 Socials:
